@@ -1,0 +1,132 @@
+ASSUMPTIONS, VALIDITY AND CRITICISMS OF THE ARBITRAGE PRICING MODEL, CAPITAL ASSET PRICING MODEL(CAPM), AND FAMA AND FRENCH MULTI-FACTOR MODELS
+
+
+1.	INTRODUCTION
+
+An asset is anything that holds value. They are the fundamental building blocks of financial markets. But how these values are determined has been a topic of debate for several decades, resulting in various theories and models defining the same. Participants of financial markets use these asset pricing models to determine the value of assets, both capital and ordinary assets to make informed decisions. However, the accuracy of these models in determining the fair or true value of an asset is widely criticized upon. Capital Asset Pricing Model (CAPM), Arbitrage Pricing Theory (ABT) and Fama and French Multi-Factors Model are three of the prominent models in finance. 
+Capital Asset Pricing Model is the oldest among these introduced by William F. Sharpe in 1964. It is a simple model which considers only one factor which is sensitivity to market risk or beta. It is said to be a foundational model in finance since all the models which came post CAPM were built on this.
+The Arbitrage Pricing Theory (APT) introduced by Stephen Ross in 1976 which came after CAPM is considered a modification to the CAPM. APT included more factors in the model, not just market risk. These factors include macroeconomic factors such as inflation, interest rates and so on.
+The Fama-French Multi Factor Model is a relatively new model. It was introduced by Nobel laurates Eugene Fama and his colleague Kenneth French in the 1990s. The Fama-French Multi Factor Model proposes to include the size of the firms, book-to-market values and excess return on the market. 
+
+This essay is intended to delve deep into these models namely Capital Asset Pricing Model, Arbitrage Pricing Theory and Fama-French Multi-Factor Model discussing in detail about the structure, underlying assumptions, relevance, significance and the criticisms of each of these models.
+
+
+2.	ANALYTICAL AND CRITICAL DISCUSSIONS
+
+2.1	  CAPITAL ASSET PRICING MODEL(CAPM)
+
+The capital asset pricing model commonly referred to as the CAPM is considered to be a centrepiece of modern financial economics. The model aims to predict the relationship between the risk of an asset and it’s expected return (Bodie, Kane and Marucs, 2020). 
+CAPM Formula:
+ERi = Rf  +  βi ( ERM - Rf  ) 
+where:
+ERi = expected rate of return
+Rf  = risk-free rate
+Βi = beta of the asset
+( ERM - Rf  ) = market risk premium
+
+2.1.1	ASSUMPTIONS
+
+CAPM is mainly based on two sets of assumptions: 
+
+•	Investor behaviour
+CAPM assumes all investors to be rational, mean-variance optimizers. It also assumes them to have a common time horizon and homogeneous expectations (provided all relevant information is publicly available).
+
+•	Market structure
+Regarding market structure CAPM assumes no taxes, no transaction costs, all assets are publicly traded and available to be borrowed at a common risk-free rate.
+	
+According to the assumptions, all investors will be holding the market portfolio which includes all the assets available in the market in the proportion of market value of the stock divided by total market value of all stocks.  The market portfolio will lie om the efficient frontier. The risk premium on the market portfolio will be proportional to the variance of market portfolio. Finally, the risk premium is calculated by multiplying market risk premium with beta of the asset or stock.
+
+2.1.2 VALIDITY 
+
+The establishment of CAPM marks the beginning of asset pricing theory. Even though the CAPM model has faced its fair share of criticism (particularly regarding the model’s assumptions), it is still widely used in the industry to estimate expected returns of a stock or an asset given its beta (a measure of risk relative to the market) or volatility. Even though CAPM has its own set of limitations, the model serves as an effective tool in determining the relationship between risk and return. By understanding CAPM, a rational investor who demands a higher return could select stocks or assets with a higher beta or reduce the risk by reducing the high-beta stocks. Moreover, it served as a foundation to all the asset pricing models which came after CAPM. In conclusion CAPM is a useful and simple tool for estimating expected return considering the asset’s beta and market conditions. However, the assumptions which the model holds must be taken into consideration before making an informed decision.
+
+2.1.3 CRTICISM
+
+Any economic model is a simplified statement of reality (Brealey, Myres and Allen, 1980). However, what makes a model different from reality are the underlying assumptions. Several assumptions behind the CAPM formula have been seen not to keep in touch with reality or real-world applications making the accuracy of CAPM complicated. For instance, CAPM assumes all investors to be rational and have homogeneous expectations but in reality, they can be irrational and make decisions based on their subjective biases. Moreover, CAPM assumes markets are efficient, but in reality, market can be inefficient due to information asymmetry, insider trading or any other factors. The model also assumes no taxes and no transaction costs which is not the case in reality. While these assumptions make the model and its formula simple and easy, it may not hold true in real-world applications. Roll’s (1977) paper “A Critique of Capital Asset Pricing Tests” pointed out that the true market portfolio can never be observed meaning an investor’s pool of assets or total wealth may include real estate fixed-income securities and so on which are not usually included in the stock market indices which are considered in the CAPM model. Therefore, while CAPM remains to be a simple and fundamental tool in asset pricing, its reliance on unrealistic assumptions requires investors to be more cautious while calculating returns based on the model.
+
+
+
+
+
+
+
+
+2.2	  ARBITRAGE PRICING THEORY
+
+The Arbitrage pricing theory was introduced by Stephen A. Ross in 1976 as an alternative to CAPM. The model considers macroeconomic factors like inflation, interest rates which were not included in CAPM making it a more flexible and robust approach. To understand this theory, we must first understand the concept of arbitrage. Arbitrage is the act of exploiting mispricing of two or more securities to achieve risk-free profits The APT depends on the assumption that well-functioning capital markets preclude arbitrage opportunities. (Bodie, Z., Kane, A. & Marcus, A.J., 2018.). 
+
+APT Formula:
+E(Rp)=Rf+β1f1+β2f2+…+βnfn
+where:
+E(Rp) = Expected return
+Rf = Risk-free return
+βn = Sensitivity to the factor of n
+fn = nth factor price
+
+
+2.2.1	ASSUMPTIONS
+
+Arbitrage pricing theory is primarily based on the assumption that no arbitrage opportunities exist in an efficient market system. This assumption is what makes the APT fundamentally different from CAPM and makes it more flexible and applicable to real-world scenarios. Other assumptions of APT include:
+o	Linear Relationship: The assets are linearly related to the common systematic risk factors such as inflation, growth in GDP, or interest rates.
+
+o	No Arbitrage: Because of efficient markets, arbitrage opportunities are precluded and prices are at their theoretical values.
+
+o	Systematic Risk: Returns are induced by macroeconomic factors that cannot be diversified away.
+
+o	Diversifiable Risk: In a diversified portfolio, idiosyncratic risk washes out, and only systematic risks remain relevant.
+
+o	Homogeneous Expectations: All investors agree on what factors affect returns and what their sensitivities are.
+
+o	Perfect Competition: The markets have so many participants that no single investor can individually affect the prices.
+
+o	Factor Structure: The asset returns contain systematic components factor-driven and diversifiable idiosyncratic noise.
+
+
+2.2.2	VALIDITY
+Even though CAPM was the introduction of capital asset pricing to the world of economics, it had its own limitations. It was a single factor model which considered only market risk premium while the newly incorporated APT theory included in it systematic risk factors like inflation, interest rates and so on. Empirical researches conducted by researchers like Chen, Roll and Ross found out that asset returns were significantly influenced by macroeconomic like inflation, GDP, interests and so on. Besides incorporating these systematic risk factors, the model gives flexibility to investors to include any factors which they think is significant in understanding the expected returns of a particular asset. Moreover, APT assumes that idiosyncratic risks can be reduced by diversification and no arbitrages exist which makes it a simple and practical model to estimate returns.
+
+2.2.3	CRITICISM
+Even though the Arbitrage Pricing theory had its theoretical advantages and practical applications, APT had several drawbacks as a theory which were pointed out by several scholars like Eugene F. Fama, Richard Roll, William Sharpe and so on. For instance, Fama pointed out that while the model offers a more flexible approach by considering multiple factors, identification of these factors is subjective and inconsistent. (Fama, E.F, 1976). According to Roll, the theory is on the difficult side in case of empirical testing due to the lack of a standard benchmark for comparison. (Roll, 1976). Sharpe, who introduced the Capital Asset pricing model has also shared his opinion on APT being inconsistent and complex due to the flexibility in the selection of risk factors which in turn results in inconsistencies. These criticisms highlight the need to consider both flexibility and relevance while choosing an asset pricing model. While APT provides important perspectives, fundamental flaws in its approach restrict its application to real-world situations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+				
+
+	
+
+	
+
+	
+		
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
