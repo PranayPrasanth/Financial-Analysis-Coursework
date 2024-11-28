@@ -90,6 +90,52 @@ Even though the Arbitrage Pricing theory had its theoretical advantages and prac
 
 
 
+ 2.3 FAMA AND FRENCH MULTI FACTOR MODEL
+
+The Fama and French Multi-Factor Model is considered to be a pioneer of modern finance since it addressed the limitations of the models which came prior to it namely the Capital Asset pricing Model (CAPM).  In addition to market risk premium, Fama and French proposed to include firm size and book-to-market(B/M) ratio in their model. These additional factors are based on the observation that average returns on stocks of small firms and firms with high book value to market value ratios are higher than high beta stocks. (Bodie, Z., Kane, A., and Marcus, A.J. (2021) Investments. 12th edn. New York: McGraw-Hill Education). 
+
+Fama and French Multi-Factor Model Formula:
+
+Rit−Rft=αit+β1(RMt−Rft)+β2SMBt+β3HMLt+ϵit
+Where:
+Rit = total return of a stock or portfolio i at time t
+Rft = risk free rate of return at time 
+tRMt = total market portfolio return at time t
+Rit−Rft = expected excess return
+RMt−Rft = excess return on the market portfolio (index)
+SMBt = size premium (small minus big)
+HMLt = value premium (high minus low)
+β1,2,3 = factor coefficients
+
+2.3.1 ASSUMPTIONS
+
+	Most of the assumptions of the Fama and French Multi-Factor   Model align with those of the CAPM and APT including:
+•	Market efficiency
+•	Linear relationship between risk and return
+•	Systematic risk is the primary factor of returns
+•	Arbitrage-Free Market
+•	Diversification eliminates all idiosyncratic risks.
+
+What makes the Fama and French model different is the two additional factors included in it: 
+•	Small minus big (SMB) – stocks with small market caps that generate higher returns.
+•	High Minus Low (HML) – value stocks with high book-to-market ratios.
+
+2.3.2 VALIDITY 
+
+The Fama and French model has been experimented and has shown empirical validity in estimating returns based on size and value factors additional to market risk. Fama and French have shown these additional factors were better representatives of cross-sectional variations than CAPM. Their empirical research papers, especially 1992 paper highlighted that the additional factors namely size (SMB) and value (HML) has increased the accuracy of returns and resulted in estimation of returns in a way which the CAPM could not. Despite criticisms concerning the inconsistency of value and size premiums, the model still remains to be a pioneer to modern asset pricing theory.
+
+2.3.3 CRITICISM 
+
+	Even though the Fama and French three-factor model is a comprehensive and robust approach to asset pricing theory, the model has several disadvantages which led to various scholars and industry players criticising the model. Similar to the validity, Fama and French model even share common criticisms with the CAPM and APT. The market efficiency assumption and the model’s lack of theoretical foundation are both criticisms that the CAPM and Fama and French share. In addition to this, the most common criticism of the model is that the size and value premium factors and inconsistent between markets or over time questioning the model’s reliability. Even though the two factors SMB and HML increased the accuracy of estimations, the model was criticised for the neglect of other factors including momentum, profitability and investment which were added later in the Five-Factor Model.
+
+	
+3.	CONCLUSION
+
+In conclusion, asset pricing theories have evolved over the years with newer models addressing the limitations of their predecessors. From the Capital Asset Pricing Model (CAPM) to the Arbitrage Pricing Theory (APT) and finally the Fama and French Multi-Factor Model, we are able the witness the continuous evolvement of asset pricing approaches. Even though these models introduced the concept of asset pricing and significantly contributed to understanding the relationship between risk and return, these models still face limitations such as reliance on simplified assumptions and being able to keep up with the inconsistencies and complexities of the real-world financial markets. However, the advent of Artificial Intelligence (AI) and Machine Learning (ML) is a big step towards addressing these concerns resulting in a more dynamic, data-driven approach to asset pricing and risk management. This integration of finance and technology represents the future of financial modelling, enabling more adaptive and efficient approach to predicting asset behaviour in increasingly complex markets.
+
+
+
+
 
 
 
